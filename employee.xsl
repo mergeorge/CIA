@@ -18,7 +18,7 @@
 <xsl:for-each select="Company/employee">
 <tr>
 <td>
-<xsl:value-of select="EMPID"/>
+<xsl:value-of select="@EMPID"/>
 </td>
 <td>
 <xsl:value-of select="emp-name"/>
