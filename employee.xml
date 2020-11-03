@@ -4,7 +4,7 @@
 xsi:noNamespaceSchemaLocation="employee.xsd"> 
 	
 	   
-		    <employee EMPID="Emp01">
+		    <employee EMPID="EMP01">
 		    <emp-name>Merin George</emp-name>
 		<emp-age>35</emp-age>
 		<emp-salary>90000</emp-salary>
@@ -13,12 +13,12 @@ xsi:noNamespaceSchemaLocation="employee.xsd">
 		<designation>Team Leader</designation>
 		</employee>
 		
-	    <employee EMPID="eMP02">
+	    <employee EMPID="EMP02">
 		<emp-name>Ann Sherluck</emp-name>
 		<emp-age>45</emp-age>
 		<emp-salary>80000</emp-salary>
-		<emp-email>merinmg99@gmail.com</emp-email>
-		<emp-phone>9847508465</emp-phone>
+		<emp-email>anns56@gmail.com</emp-email>
+		<emp-phone>8887508465</emp-phone>
 		<designation>Team Leader</designation>
 		</employee>
 		
@@ -26,8 +26,17 @@ xsi:noNamespaceSchemaLocation="employee.xsd">
 		<emp-name>Kevin George</emp-name>
 		<emp-age>39</emp-age>
 		<emp-salary>100000</emp-salary>
-		<emp-email>merinmg99@gmail.com</emp-email>
-		<emp-phone>9847508465</emp-phone>
+		<emp-email>kevinmg99@gmail.com</emp-email>
+		<emp-phone>9845608465</emp-phone>
+		<designation>Team Leader</designation>
+		</employee>
+	
+	 <employee EMPID="EMP04">
+		<emp-name>Steffi Jose</emp-name>
+		<emp-age>59</emp-age>
+		<emp-salary>100000</emp-salary>
+		<emp-email>steffjo@gmail.com</emp-email>
+		<emp-phone>9457208465</emp-phone>
 		<designation>Team Leader</designation>
 		</employee>
 	
